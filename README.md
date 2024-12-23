@@ -77,8 +77,7 @@ RegisterNumber:24002208
 
 ![WhatsApp Image 2024-12-21 at 17 40 03_69127280](https://github.com/user-attachments/assets/19c6a5c5-fbff-45ad-82ef-7ed7f8fc55bd)
 
-![image](https://github.com/user-attachments/assets/2225ad10-e619-4e4f-acab-83f2288c34d8)
-
+![Screenshot (1)](https://github.com/user-attachments/assets/93a28938-9dc7-410a-a480-87aa40425b2c)
 
 
 **Timing Diagram**
